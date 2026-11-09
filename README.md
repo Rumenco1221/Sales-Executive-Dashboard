@@ -2,7 +2,7 @@
 
 Dashboard ejecutivo de ventas orientado a la toma de decisiones estratégicas: KPIs claros, análisis por vendedor, categoría y medio de pago, y pronóstico de ventas a 3, 6 y 12 meses con escenarios.
 
-**▶ Demo en vivo:** https://TU-USUARIO.github.io/Sales-Executive-Dashboard/reports/dashboard-ventas-ejecutivo.html
+**▶ Demo en vivo:** https://Rumenco1221.github.io/Sales-Executive-Dashboard/reports/dashboard-ventas-ejecutivo.html
 
 ![Vista general del dashboard](images/dashboard-overview.png)
 
@@ -73,7 +73,7 @@ Sales-Executive-Dashboard
 3. Usá los segmentadores superiores para filtrar y los botones de horizonte para el pronóstico.
 
 ```bash
-git clone https://github.com/TU-USUARIO/Sales-Executive-Dashboard.git
+git clone https://github.com/Rumenco1221/Sales-Executive-Dashboard.git
 ```
 
 ## Beneficios para empresas
@@ -99,4 +99,4 @@ Distribuido bajo licencia MIT. Ver `LICENSE`.
 
 ## Autor
 
-**TU NOMBRE** · [LinkedIn](https://www.linkedin.com/in/TU-PERFIL) · [GitHub](https://github.com/TU-USUARIO)
+**ESTELA VERONICA OVIEDO** · [LinkedIn](https://www.linkedin.com/in/estela-oviedo-cortez-796303228) · [GitHub](https://github.com/Rumenco1221)

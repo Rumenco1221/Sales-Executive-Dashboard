@@ -2,9 +2,9 @@
 
 Dashboard ejecutivo de ventas orientado a la toma de decisiones estratégicas: KPIs claros, análisis por vendedor, categoría y medio de pago, y pronóstico de ventas a 3, 6 y 12 meses con escenarios.
 
-**▶ Demo en vivo:** https://Rumenco1221.github.io/Sales-Executive-Dashboard/reports/dashboard-ventas-ejecutivo.html
+**▶ [Ver demo en vivo](https://rumenco1221.github.io/Sales-Executive-Dashboard/reports/dashboard-ventas-ejecutivo.html)**
 
-![Vista general del dashboard](images/dashboard-overview.png)
+![Vista general del dashboard](images/dashboard-overview.png..png)
 
 > Los datos son sintéticos y se generan con fines demostrativos. No corresponden a ninguna empresa real.
 
